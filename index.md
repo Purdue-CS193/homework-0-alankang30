@@ -1,9 +1,9 @@
-## This is Alan Kang's First GitHub Repository
+# Alan Kang's First CS193 Homework
+**Here are some of my favorite things about CS193:**
+- It's later in the day!
+- It's taught by students!
+- It has a fun and friendly environment!
 
-- 8/31/2023
-- CS193 Tools
-
-  **Hooray!**
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
